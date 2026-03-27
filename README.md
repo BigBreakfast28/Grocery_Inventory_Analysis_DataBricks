@@ -90,11 +90,6 @@ Built an interactive dashboard to monitor:
 
 ---
 
-## 📈 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
 
 ## 🚀 Business Recommendations
 
