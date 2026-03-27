@@ -75,7 +75,10 @@ Built an interactive dashboard to monitor:
 - Average turnover rate  
 - Monthly inventory trends  
 - Category distribution  
-- Low-stock alerts  
+- Low-stock alerts
+
+## 📈 Dashboard
+![Dashboard](images/dashboard.png)
 
 ### 4. Machine Learning Forecasting
 - Built a predictive model to identify products requiring restocking  
@@ -104,9 +107,26 @@ Built an interactive dashboard to monitor:
 - Adjust reorder levels based on turnover rates  
 - Reduce or eliminate low-performing products  
 - Improve supplier selection and reliability tracking  
-- Implement predictive alerts for proactive inventory management  
+- Implement predictive alerts for proactive inventory management
 
 ---
+
+Identify products at risk of stockout
+SELECT Product_Name, Stock_Quantity, Reorder_Level,
+       (Reorder_Level - Stock_Quantity) AS shortage
+FROM grocery_inventory
+WHERE Stock_Quantity < Reorder_Level
+ORDER BY shortage DESC;
+
+---
+
+## 💼 Business Impact
+
+This analysis enables:
+- Proactive restocking decisions
+- Reduced lost revenue from stockouts
+- Improved supplier management
+- Better inventory turnover efficiency
 
 ## 💡 Key Takeaway
 
