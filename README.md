@@ -1,4 +1,7 @@
 # Grocery_Inventory_Analysis_DataBricks
+
+# 🛒 Grocery Inventory Analytics (Databricks + SQL + ML)
+
 ## 📊 Key Results
 
 - Identified **455 products below reorder level**
@@ -7,6 +10,15 @@
 - Reduced risk of stockouts through data-driven prioritization
 
 This project analyzes grocery inventory data to optimize stock levels, reduce stockouts, and improve supply chain efficiency using **Databricks, SQL, Delta Lake, and machine learning**.
+
+## 📌 Why This Matters
+
+Inventory mismanagement leads to:
+- Lost revenue from stockouts
+- Excess capital tied up in inventory
+- Poor supplier performance
+
+This project provides a data-driven solution to these problems.
 
 ---
 
