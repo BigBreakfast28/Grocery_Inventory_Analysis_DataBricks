@@ -1,4 +1,11 @@
 # Grocery_Inventory_Analysis_DataBricks
+## 📊 Key Results
+
+- Identified **455 products below reorder level**
+- Detected **supply chain inefficiencies across suppliers**
+- Built predictive model to forecast restocking needs
+- Reduced risk of stockouts through data-driven prioritization
+
 This project analyzes grocery inventory data to optimize stock levels, reduce stockouts, and improve supply chain efficiency using **Databricks, SQL, Delta Lake, and machine learning**.
 
 ---
