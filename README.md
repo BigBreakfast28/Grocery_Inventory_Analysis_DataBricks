@@ -15,7 +15,7 @@ A grocery retailer is experiencing frequent stockouts and inefficient inventory 
 This project analyzes grocery inventory data to optimize stock levels, reduce stockouts, and improve supply chain efficiency using **Databricks, SQL, Delta Lake, and machine learning**.
 
 ## 📊 Dashboard
-![Dashboard](images/dashboard_1.PNG)
+![Dashboard](images/dashboard_1)
 
 ## 📌 Why This Matters
 
