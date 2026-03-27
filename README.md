@@ -95,9 +95,6 @@ Built an interactive dashboard to monitor:
 - Category distribution  
 - Low-stock alerts
 
-## 📈 Dashboard
-![Dashboard](images/dashboard.png)
-
 ### 4. Machine Learning Forecasting
 - Built a predictive model to identify products requiring restocking  
 - Features used:
